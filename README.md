@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlieandersen
-- 👀 I’m interested in cars, technology, music, gaming, coffee, cats, and spending time outdoors
-- 🌱 I’m currently learning Pyhton and C++
+- 👀 I’m interested in cars, motorsports, technology, music, drinking and making coffee, cats, and spending time outdoors
+- 🌱 I’m currently learning Pyhton for data analytics
 - 📫 How to reach me: Twitter @InfoTechCharlie
 
 <!---
